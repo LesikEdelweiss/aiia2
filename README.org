@@ -1,0 +1,13 @@
+#+TITLE: AI lab 2
+#+AUTHOR: Pustovoi Alexei
+
+Йоу это вторая лаба по ИИ
+
+* License
+
+This project is licensed under CeCILL v2.1.
+
+Follow these links to get a copy of the license in:
+
+- [[https://cecill.info/licences/Licence_CeCILL_V2.1-en.txt][English]]
+- [[https://cecill.info/licences/Licence_CeCILL_V2.1-fr.txt][French]]
